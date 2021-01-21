@@ -81,6 +81,6 @@
     "eslint-plugin-react": "7.x",
     "prettier": "^1.18.2",
     "serve": "10.1.2",
-    "webpack-bundle-analyzer": "^3.4.1"
+    "webpack-bundle-analyzer": "^4.4.0"
   }
 }
