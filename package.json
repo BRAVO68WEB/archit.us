@@ -37,7 +37,7 @@
     "react-data-grid-addons": "^6.1.0",
     "react-dom": "^16.8.2",
     "react-redux": "^7.1.0",
-    "react-static": "^7.0.0",
+    "react-static": "^7.5.0",
     "react-static-plugin-reach-router": "^7.0.0",
     "react-static-plugin-sass": "^7.1.0",
     "react-static-plugin-sitemap": "^7.0.0",
