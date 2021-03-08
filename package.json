@@ -14,7 +14,7 @@
     "webpack-analyze": "webpack-bundle-analyzer dist/stats.json"
   },
   "dependencies": {
-    "@babel/core": "^7.5.5",
+    "@babel/core": "^7.13.10",
     "@fortawesome/fontawesome-svg-core": "^1.2.19",
     "@fortawesome/free-brands-svg-icons": "^5.9.0",
     "@fortawesome/free-solid-svg-icons": "^5.9.0",
